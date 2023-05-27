@@ -1,7 +1,6 @@
 # State-of-GPT-2023
 Learn about the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions.
 
-(/GPT Training.jpg)
 
 Speakers:
  * Andrej Karpathy
